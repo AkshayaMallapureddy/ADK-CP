@@ -1,1 +1,0 @@
-// This file was incorrectly named and contained XML. The content has been moved to res/layout/activity_dashboard.xml
